@@ -1,7 +1,6 @@
-# SQL
+## 🧠 SQL Projects
 
-Below mentioned are some of the projects made by.
+| Project | Description | Tools |
+|---------|-------------|--------|
+| [🛍️ Grocery Store Sales Analysis](https://github.com/your-username/grocery-store-sql) | Analyzed grocery store sales data to extract key business insights. Covered customer purchase behavior, sales performance, product demand trends, and geographic sales distribution. | `SQL`, `Joins`, `Aggregations`, `Subqueries` |
 
-| Project Name | Description |
-|----------|----------|
-| [Grocery Store](https://github.com/keshav-9636/SQL-Projects/tree/main/grocery_store) | This SQL project analyzes grocery store sales data to uncover key business insights. It includes queries for sales performance, customer purchase behavior, product demand, and geographical sales distribution. 🚀📊 |
